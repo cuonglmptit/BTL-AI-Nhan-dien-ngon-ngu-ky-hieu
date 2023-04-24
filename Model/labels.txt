@@ -1,0 +1,21 @@
+0 A
+1 B
+2 C
+3 Cam on
+4 Co-Dong y-OK
+5 G
+6 Giup do
+7 Khong
+8 La gi-Cai gi
+9 Lam on-Di ma
+10 N
+11 Nhin thay
+12 O
+13 Ten
+14 Toi
+15 Toi cam thay on
+16 Toi yeu ban
+17 Xin chao
+18 Xin loi
+19 U
+20 Ban
