@@ -1,2 +1,2 @@
 # BTL-AI-Nhan-dien-ngon-ngu-ky-hieu
-Trong phần code này chưa tạo folder data do nếu tạo thì lượng dữ lớn nên không thể upload lên github
+Trong prroject này folder Data  không có dữ liệu do lượng dữ liệu lớn nên không thể upload lên github
