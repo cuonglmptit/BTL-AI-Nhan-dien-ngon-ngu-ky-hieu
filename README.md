@@ -4,3 +4,4 @@ Trong prroject này folder Data  không có dữ liệu do lượng dữ liệu 
 2. Sử dụng https://teachablemachine.withgoogle.com/train/image để train ảnh thu được
 3. Lưu model h5 vào trong folder Model để dử dụng
 4. Chạy file test.py để dùng model (sửa đường dẫn model trước khi chạy) 
+(Model upload lên trong github này đã được train rồi)
